@@ -52,7 +52,8 @@
 
 - 块式代码
 
-```javascript
+```
+javascript
 
 var a=10;
 console.log(a);
