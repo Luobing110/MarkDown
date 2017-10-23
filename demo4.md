@@ -19,13 +19,14 @@
    [链接文字](URL)
    
 [百度](http://www.baidu.com)
+![baidu](https://www.baidu.com/img/bd_logo1.png  "百度网站")
 
 基本图片：
 
     ![alt](URL text)
     
-    ![](https://www.baidu.com/img/bd_logo1.png)
+    ![ ](https://www.baidu.com/img/bd_logo1.png)
     
     图片链接：
 
-[![](https://www.baidu.com/img/bd_logo1.png)](http://www.baidu.com)
+[![]( https://www.baidu.com/img/bd_logo1.png )](http://www.baidu.com)

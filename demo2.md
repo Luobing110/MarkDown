@@ -62,11 +62,11 @@ console.log(a);
 
 <!---  下面是本文档中用到的链接  -->
 
-[百度]：http://www.baidu.com
-[baidu]：http://www.baidu.com
+[百度]：http:://www.baidu.com
+[baidu]：http:://www.baidu.com
 [demo1]: demo1.md
 [代码块demo]: demo2.md#代码块-demo
 
-[baidu_logo]: https://www.baidu.com/img/bd_logo1.png
+[baidu_logo]: https:://www.baidu.com/img/bd_logo1.png
 
 [baidu_png]:images/baidu.png
